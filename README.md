@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ander Sillva
-- 👀 I’m interested in Python, Java and Machine Learning.
+- 👀 I’m interested in distributed software development in Java and Machine Learning in Python.
 - 📫 How to reach me: silva.andersonm@gmail.com
 
 <!---
