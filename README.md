@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ander Sillva
-- 👀 I’m interested in distributed software development in Java and Machine Learning in Python.
+- 👀 I’m interested in distributed software development, cloud computing and machine learning.
 - 📫 How to reach me: andersillva11@gmail.com
 
 <!---
