@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ander Sillva
+- 👋 Hi, I’m Anderson Silva.
 - 👀 I’m interested in distributed software development, cloud computing and machine learning.
 - 📫 How to reach me: andersillva11@gmail.com
 
